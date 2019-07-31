@@ -39,3 +39,5 @@ def fourth_challenge
 }
 end
 
+epic_tragedy = {status: "alive", status: "dead"}
+epic_tragedy[:status]
